@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi there, I'm Ajay Sharma (Aj-Shaer07)
 
-<!--
-**Aj-Shaer07/Aj-Shaer07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate developer who loves building software and exploring new technologies.  
+I enjoy working on **TypeScript, JavaScript, and Python** projects.
 
-Here are some ideas to get you started:
+My personal portfolio website: https://portfolio-6e291k026-aj-shaer08s-projects.vercel.app
+(ps: still needs work)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: `TTYL`, `DSAVerseWithAI` and `DocShare`
+- 🌱 I’m currently learning: Advanced TypeScript, AI integration, OS and Network-Sharing based Applications
+- 👯 I’m looking to collaborate on: Open source projects and innovative web applications
+- 💬 Ask me about: TypeScript, JavaScript, Python, and AI development
+- ⚡ Fun fact: I love turning ideas into working code!
+
+---
+
+## 🛠️ Languages and Tools
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+
+---
+
+## 💼 Projects
+### Web, AI and Networks
+- [ttyl](https://github.com/Jishnu-Prasad888/ttyl) - A collaborative chat application
+- [DSAVerseWithAI](https://github.com/jeetumodi/DSAVerseWithAI) - AI-assisted DSA learning platform
+- [portfolio](https://github.com/Aj-Shaer07/portfolio) - My personal portfolio website
+- [multitcgame](https://github.com/Aj-Shaer07/multitcgame) - A JavaScript-based game
+- [DocShare](https://github.com/Aj-Shaer07/docshare.git) - A Python-based file sharing application
+
+---
+
+## 📊 GitHub Stats
+![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aj-Shaer07&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aj-Shaer07&layout=compact&theme=radical)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aj-Shaer07&theme=react-dark)
+
+---
+
+## 📫 Contact Me
+- Email: [ajay.sharma@example.com](mailto:ajay.sharma.sam2907@gmail.com)
+- LinkedIn: [Ajay Sharma](www.linkedin.com/in/ajayshaersamb070692)
+- Instagram: [@ajay._.2907](https://www.instagram.com/ajay._.2907/)
+
+---
+
+## 🧠 Let's Connect
+Feel free to reach out to me for collaborations, discussions, or just a friendly chat about technology!
