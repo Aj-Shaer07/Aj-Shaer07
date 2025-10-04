@@ -38,7 +38,6 @@ My personal portfolio website: https://portfolio-6e291k026-aj-shaer08s-projects.
 ## 📊 GitHub Stats
 ![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aj-Shaer07&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aj-Shaer07&layout=compact&theme=radical)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aj-Shaer07&theme=react-dark)
 
 ---
 
