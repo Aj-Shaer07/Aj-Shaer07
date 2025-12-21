@@ -42,7 +42,7 @@ My personal portfolio website: https://portfolio-6e291k026-aj-shaer08s-projects.
 ---
 
 ## 📫 Contact Me
-- Email: [ajay.sharma@example.com](mailto:ajay.sharma.sam2907@gmail.com)
+- Email: [ajay.sharma.sam2907@gmail.com](mailto:ajay.sharma.sam2907@gmail.com)
 - LinkedIn: [Ajay Sharma](www.linkedin.com/in/ajayshaersamb070692)
 - Instagram: [@ajay._.2907](https://www.instagram.com/ajay._.2907/)
 
