@@ -34,12 +34,6 @@ My personal portfolio website: https://portfolio-6e291k026-aj-shaer08s-projects.
 
 ---
 
-## 📊 GitHub Stats
-![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aj-Shaer07&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aj-Shaer07&layout=compact&theme=radical)
-
----
-
 ## 📫 Contact Me
 - Email: [ajay.sharma.sam2907@gmail.com](mailto:ajay.sharma.sam2907@gmail.com)
 - LinkedIn: [Ajay Sharma](www.linkedin.com/in/ajayshaersamb070692)
