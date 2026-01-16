@@ -7,7 +7,6 @@ I enjoy working on **TypeScript, JavaScript, and Python** projects.
 My personal portfolio website: https://portfolio-6e291k026-aj-shaer08s-projects.vercel.app
 (ps: still needs work)
 
-- 🔭 I’m currently working on: `TTYL`, `DSAVerseWithAI` and `DocShare`
 - 🌱 I’m currently learning: Advanced TypeScript, AI integration, OS and Network-Sharing based Applications
 - 👯 I’m looking to collaborate on: Open source projects and innovative web applications
 - 💬 Ask me about: TypeScript, JavaScript, Python, and AI development
