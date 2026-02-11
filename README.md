@@ -1,20 +1,18 @@
 # 👋 Hi there, I'm Ajay Sharma (Aj-Shaer07)
 
-## 🚀 About Me
+## About Me
 I'm a passionate developer who loves building software and exploring new technologies.  
 I enjoy working on **TypeScript, JavaScript, and Python** projects.
 
-My personal portfolio website: https://portfolio-6e291k026-aj-shaer08s-projects.vercel.app
-(ps: still needs work)
 
-- 🌱 I’m currently learning: Advanced TypeScript, AI integration, OS and Network-Sharing based Applications
-- 👯 I’m looking to collaborate on: Open source projects and innovative web applications
-- 💬 Ask me about: TypeScript, JavaScript, Python, and AI development
-- ⚡ Fun fact: I love turning ideas into working code!
+- I’m currently learning: Advanced TypeScript, AI integration, OS and Network-Sharing based Applications
+- I’m looking to collaborate on: Open source projects and innovative web applications
+- Ask me about: TypeScript, JavaScript, Python, and AI development
+- Fun fact: I love turning ideas into working code!
 
 ---
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -24,7 +22,7 @@ My personal portfolio website: https://portfolio-6e291k026-aj-shaer08s-projects.
 
 ---
 
-## 💼 Projects
+## Projects
 ### Web, AI and Networks
 - [ttyl](https://github.com/Jishnu-Prasad888/ttyl) - A collaborative chat application
 - [DSAVerseWithAI](https://github.com/jeetumodi/DSAVerseWithAI) - AI-assisted DSA learning platform
@@ -34,12 +32,12 @@ My personal portfolio website: https://portfolio-6e291k026-aj-shaer08s-projects.
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 - Email: [ajay.sharma.sam2907@gmail.com](mailto:ajay.sharma.sam2907@gmail.com)
 - LinkedIn: [Ajay Sharma](www.linkedin.com/in/ajayshaersamb070692)
 - Instagram: [@ajay._.2907](https://www.instagram.com/ajay._.2907/)
 
 ---
 
-## 🧠 Let's Connect
+## Let's Connect
 Feel free to reach out to me for collaborations, discussions, or just a friendly chat about technology!
